@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="150" width="200"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
