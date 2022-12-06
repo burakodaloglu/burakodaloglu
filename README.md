@@ -1,8 +1,12 @@
 
 <p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="150" width="300"/></p>
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/burakkodaloglu)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://burakkodaloglu.com/)
+<p align="center">
+<a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <p align="center">
+<a href="https://burakkodaloglu.com"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge"></a>
+</p>
+</p>
 </p>
 
 <h1 align="center">Hi there, I am Burak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
