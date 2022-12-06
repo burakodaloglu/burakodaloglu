@@ -1,7 +1,9 @@
 <h1 align="center">Hello, I'm Burak</h1>
-**burakodaloglu/burakodaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+	<a href="mailto:burakodaloglu1@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/burakkodaloglu/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
