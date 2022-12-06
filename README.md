@@ -16,7 +16,6 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - ⚡ In my spare time, I try to improve myself or go for a walk.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-BK-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkodaloglu)
 
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -30,6 +29,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 |<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>|
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=burakodaloglu&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakodaloglu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=burakodaloglu&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakodaloglu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
