@@ -1,9 +1,10 @@
 
-<p align="center"><img src="[https://giphy.com/embed/HscDLzkO8EOTmgkhQP](https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47lu1ouo0ay957b05ggzuo4io47cqf3b3gagcabpc3&rid=giphy.gif&ct=g)" width="100"/></p>
+<p align="center"><img src="
+https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=790b7611d05be7aeb509d53460716e274e06205073d40530&rid=giphy.gif&ct=g" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-
+https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=790b7611d05be7aeb509d53460716e274e06205073d40530&rid=giphy.gif&ct=g
 <h1 align="center">Hi there, I am Burak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
