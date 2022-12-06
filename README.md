@@ -1,10 +1,8 @@
 
-<p align="center"><img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100"/></p>
+<p align="center"><img src="[https://giphy.com/embed/HscDLzkO8EOTmgkhQP](https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47lu1ouo0ay957b05ggzuo4io47cqf3b3gagcabpc3&rid=giphy.gif&ct=g)" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
-
 
 <h1 align="center">Hi there, I am Burak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
