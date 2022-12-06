@@ -20,10 +20,9 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p>
-<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>|
-</p>
-
+| Android | Firebase | Java | Kotlin |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|
 ---
 
 ### 🔥 &nbsp; My Stats :
