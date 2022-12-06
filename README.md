@@ -2,8 +2,7 @@
 <p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="150" width="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://burakkodaloglu.com/)](https://burakkodaloglu.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+ [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://burakkodaloglu.com/)]
 </p>
 
 <h1 align="center">Hi there, I am Burak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
