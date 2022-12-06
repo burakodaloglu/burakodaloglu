@@ -11,7 +11,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
-I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul.
+<p align="center">I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul.</p>
 
 - 🔭 I am developing an Android mobile application and I am trying to improve myself.
 - ⚡ In my spare time, I try to improve myself or go for a walk.
