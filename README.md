@@ -1,6 +1,4 @@
-### Hi there 👋
-:boom:
-<!--
+<h1 align="center">Hello, I'm Burak</h1>
 **burakodaloglu/burakodaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
