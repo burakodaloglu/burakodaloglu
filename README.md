@@ -1,8 +1,8 @@
 
 <p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="150" width="300"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70" height="30" ></a>
-<a href="https://burakkodaloglu.com"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" width="70" height="30"></a>
+<a href="https://www.linkedin.com/in/burakkodaloglu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" ></a>
+<a href="https://burakkodaloglu.com"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" width="100" height="30"></a>
 </p>
 
 
