@@ -32,7 +32,7 @@
 |<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>|
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=burakodaloglu&theme=dark&background=000000)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakodaloglu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
 
