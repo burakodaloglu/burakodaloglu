@@ -39,6 +39,6 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:4169E1,100:00008B&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF/>
 </div>
 
