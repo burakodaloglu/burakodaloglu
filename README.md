@@ -20,8 +20,8 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 
-| Android | | Dart| | Firebase | Java | Kotlin | HTML | CSS |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| Android | Dart | Firebase | Java | Kotlin | HTML | CSS |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="60" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="html" width="60" height="40"/>
 
 <h2 align="left">Design Tools I Use</h2>
