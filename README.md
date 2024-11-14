@@ -32,6 +32,7 @@
 |<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>|
 
 ### 🔥 &nbsp; My Stats :
-![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakodaloglu&show_icons=true&theme=dark)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burakodaloglu&layout=compact&theme=dark)
+![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakodaloglu&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burakodaloglu&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=burakodaloglu&theme=dark)
 
