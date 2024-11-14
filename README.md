@@ -39,6 +39,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:4169E1,100&height=100&section=footer"/>
 </div>
+
 
