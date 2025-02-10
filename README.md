@@ -11,9 +11,9 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
-<p align="center">I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul.</p>
+<p align="center">I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul.</p>
 
-- 🔭 I am developing an Android mobile application and I am trying to improve myself.
+- 🔭 I am developing Android & Flutter mobile application and I am trying to improve myself.
 - ⚡ In my spare time, I try to improve myself or go for a walk.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-BK-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkodaloglu)
 
